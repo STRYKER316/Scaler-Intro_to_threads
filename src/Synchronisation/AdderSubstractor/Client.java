@@ -1,4 +1,4 @@
-package Synchronisation.AdderSubstractor1;
+package Synchronisation.AdderSubstractor;
 
 public class Client {
     public static void main(String[] args) throws InterruptedException {

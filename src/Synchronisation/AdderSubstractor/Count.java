@@ -1,4 +1,4 @@
-package Synchronisation.AdderSubstractor1;
+package Synchronisation.AdderSubstractor;
 
 public class Count {
     int count = 0;

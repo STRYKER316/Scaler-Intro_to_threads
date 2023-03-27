@@ -1,4 +1,4 @@
-package Synchronisation.AdderSubstractor1;
+package Synchronisation.AdderSubstractor;
 
 public class Subtractor implements Runnable {
     private Count countVar;
