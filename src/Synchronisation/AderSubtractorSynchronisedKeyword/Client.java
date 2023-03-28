@@ -1,4 +1,4 @@
-package Synchronisation.AderSubtractorWithSynchronised;
+package Synchronisation.AderSubtractorSynchronisedKeyword;
 
 public class Client {
     public static void main(String[] args) throws InterruptedException {

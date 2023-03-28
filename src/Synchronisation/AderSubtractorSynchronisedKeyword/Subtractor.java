@@ -1,4 +1,4 @@
-package Synchronisation.AderSubtractorWithSynchronised;
+package Synchronisation.AderSubtractorSynchronisedKeyword;
 
 public class Subtractor implements Runnable {
     private Count countVar;
