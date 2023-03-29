@@ -1,4 +1,4 @@
-package Synchronisation.ProducerConsumer;
+package Synchronisation.ProducerConsumerWithMutex;
 
 import java.util.Queue;
 import java.util.concurrent.ConcurrentLinkedQueue;
